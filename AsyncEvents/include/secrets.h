@@ -1,0 +1,2 @@
+#define SECRET_CH_ID            1924047
+#define SECRET_WRITE_APIKEY    "7AT8Y2EYIEL8B8TJ"
